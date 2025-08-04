@@ -20,11 +20,11 @@ export const metadata = {
     title: "Questra — Explore. Learn. Advance.",
     description:
       "Questra is your AI-powered research agent designed for intelligent exploration and deep insight discovery.",
-    url: "https://questra.vercel.app", 
+    url: "https://questra-ai-nine.vercel.app", 
     siteName: "Questra",
     images: [
       {
-        url: "https://questra.vercel.app/og-image.png", // replace with your actual OG image
+        url: "https://questra-ai-nine.vercel.app/og-image.png", // replace with your actual OG image
         width: 1200,
         height: 630,
         alt: "Questra - AI Research Agent",
@@ -41,10 +41,10 @@ export const metadata = {
       "Meet Questra — a modern AI assistant that helps researchers and thinkers discover insights, faster.",
     site: "@questra_ai", // your Twitter handle
     creator: "@questra_ai",
-    images: ["https://questra.vercel.app/og-image.png"],
+    images: ["https://questra-ai-nine.vercel.app/og-image.png"],
   },
 
-  metadataBase: new URL("https://questra.vercel.app"), // ensure base is set for static exports
+  metadataBase: new URL("https://questra-ai-nine.vercel.app/"), // ensure base is set for static exports
   robots: "index, follow",
   icons: {
     icon: "/favicon.ico",

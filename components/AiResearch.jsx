@@ -352,7 +352,7 @@ const AIResearcherApp = () => {
                             <p className="text-xs sm:text-sm text-gray-400 hidden sm:block">Connect with the creator:</p>
                             <div className="flex items-center space-x-4">
                                 <a
-                                    href="https://github.com/yourusername"
+                                    href="https://github.com/chaieeetanya433"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="group flex items-center space-x-2 text-gray-400 hover:text-white transition-colors duration-300"
@@ -362,7 +362,7 @@ const AIResearcherApp = () => {
                                     <span className="text-sm hidden sm:inline">GitHub</span>
                                 </a>
                                 <a
-                                    href="https://linkedin.com/in/yourprofile"
+                                    href="https://www.linkedin.com/in/chaitanyaagarkar/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="group flex items-center space-x-2 text-gray-400 hover:text-blue-400 transition-colors duration-300"
@@ -372,7 +372,7 @@ const AIResearcherApp = () => {
                                     <span className="text-sm hidden sm:inline">LinkedIn</span>
                                 </a>
                                 <a
-                                    href="https://yourportfolio.com"
+                                    href="https://agarkar-chaieeetanyas-portfolio-2025.vercel.app/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="group flex items-center space-x-2 text-gray-400 hover:text-cyan-400 transition-colors duration-300"

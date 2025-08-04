@@ -22,7 +22,7 @@
 
 ## 🚀 Live Demo
 
-Experience Questra in action: [**Live Demo**](https://questra.vercel.app)
+Experience Questra in action: [**Live Demo**](https://questra-ai-nine.vercel.app/)
 
 ## 🛠️ Technologies
 
